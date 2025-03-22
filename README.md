@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/61e89931-528f-4f00-ae88-0c08d9b08bc1)
+![image](https://github.com/user-attachments/assets/d519dd2f-dd88-4385-ae19-1a4bdd99e5c2)
 
 ### **Airbnb NYC Data Analysis using Python**  
 
