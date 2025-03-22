@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/d519dd2f-dd88-4385-ae19-1a4bdd99e5c2)
 
-### **Airbnb NYC Data Analysis using Python:  
+### Airbnb NYC Data Analysis using Python:  
 
 Since its launch in 2008, Airbnb has revolutionized the way people travel, offering unique and personalized stays across the globe. What started as a small idea has now become a worldwide phenomenon, connecting millions of guests and hosts.
 
